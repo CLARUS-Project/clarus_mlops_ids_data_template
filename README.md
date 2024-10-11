@@ -1,2 +1,9 @@
-# clarus_mlops_ids_data_template
-scripts with code templates to read dataset through clarus_ids_kit
+# clarus_mlops_ids_data_plugin
+
+Scripts to be added to Data folder in dag template to read data through IDS. The scripts are inside ids_read folder.
+
+
+
+
+
+
